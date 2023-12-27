@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/maykbrito/boracodar/raw/main/01/.github/preview.jpg">
+  <img alt="License" src="./assets/capa.jpg">
 </p>
 
 <br>
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Visite o projeto online] (https://glittering-paletas-cffce4.netlify.app)
+- [Visite o projeto online] (https://khnum782.github.io/player_de_musica/)
 
 ## 🔖 Layout
 
